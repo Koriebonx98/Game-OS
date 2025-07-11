@@ -11,11 +11,13 @@
         public bool IsMusic { get; set; }
         public bool IsPicture { get; set; }
         public bool IsVideo { get; set; }
+        public bool IsRepack { get; set; }
         public string TypeLabel
         {
             get
             {
                 if (IsGame) return "Game";
+                if (IsRepack) return "Ready to Install";
                 if (IsApp) return "App";
                 if (IsMusic) return "Music";
                 if (IsPicture) return "Picture";

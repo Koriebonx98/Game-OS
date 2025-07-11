@@ -17,6 +17,7 @@
                 <TextBlock Text="Library" Foreground="White" FontWeight="Bold" FontSize="18" Margin="36,12,0,4"/>
                 <StackPanel Margin="18,12,0,0">
                     <Button Content="Games" x:Name="GamesBtn" Margin="0,4,0,0" FontSize="16" Background="#2298fc" Foreground="White"/>
+                    <Button Content="Ready to Install" x:Name="ReadyToInstallBtn" Margin="0,4,0,0" FontSize="16" Background="#2298fc" Foreground="White"/>
                     <Button Content="Apps" x:Name="AppsBtn" Margin="0,4,0,0" FontSize="16" Background="#2298fc" Foreground="White"/>
                     <Button Content="Music" x:Name="MusicBtn" Margin="0,4,0,0" FontSize="16" Background="#2298fc" Foreground="White"/>
                     <Button Content="Pictures" x:Name="PicturesBtn" Margin="0,4,0,0" FontSize="16" Background="#2298fc" Foreground="White"/>

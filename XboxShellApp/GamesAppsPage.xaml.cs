@@ -6,6 +6,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 using Microsoft.Win32;
 
 namespace XboxShellApp
@@ -16,6 +17,7 @@ namespace XboxShellApp
         private DriveInfo[] _drives;
         private List<GameAppTileVM> _allTiles = new();
         private List<GameAppTileVM> _installedApps = new();
+        private Dictionary<string, GameAppTileVM> _repacksByNormalizedName = new();
         private string _filterType = "Games";
         private string _azSort = "A-Z";
         private string _driveSort = "All Drives";
@@ -41,6 +43,7 @@ namespace XboxShellApp
             BackToDashboardBtn.Click += (s, e) => _mainWindow.SwitchToDashboard();
 
             GamesBtn.Click += (s, e) => { _filterType = "Games"; UpdateTiles(); };
+            ReadyToInstallBtn.Click += (s, e) => { _filterType = "Ready to Install"; UpdateTiles(); };
             AppsBtn.Click += (s, e) => { _filterType = "Apps"; UpdateTiles(); };
             MusicBtn.Click += (s, e) => { _filterType = "Music"; UpdateTiles(); };
             PicturesBtn.Click += (s, e) => { _filterType = "Pictures"; UpdateTiles(); };
@@ -274,16 +277,20 @@ namespace XboxShellApp
         private void LoadTiles()
         {
             _allTiles.Clear();
+            _repacksByNormalizedName.Clear();
             if (_drives != null && _drives.Length > 0)
             {
                 foreach (var drive in _drives)
                 {
                     TryAddFolderTiles(drive.Name, "Games", (folder, name, exe, img) => new GameAppTileVM { Name = name, Exe = exe, ImagePath = img, Folder = folder, IsGame = true });
+                    TryAddRepackTiles(drive.Name);
                     TryAddFileTiles(drive.Name, "Music", "*.mp3", (folder, file) => new GameAppTileVM { Name = System.IO.Path.GetFileNameWithoutExtension(file), Exe = file, Folder = folder, IsMusic = true });
                     TryAddFileTiles(drive.Name, "Pictures", "*.jpg", (folder, file) => new GameAppTileVM { Name = System.IO.Path.GetFileNameWithoutExtension(file), ImagePath = file, Folder = folder, IsPicture = true });
                     TryAddFileTiles(drive.Name, "Videos", "*.mp4", (folder, file) => new GameAppTileVM { Name = System.IO.Path.GetFileNameWithoutExtension(file), Exe = file, Folder = folder, IsVideo = true });
                 }
             }
+            // Add deduplicated repacks to all tiles
+            _allTiles.AddRange(_repacksByNormalizedName.Values);
             _allTiles.AddRange(_installedApps);
             UpdateTiles();
         }
@@ -319,12 +326,53 @@ namespace XboxShellApp
             }
         }
 
+        private string NormalizeName(string name)
+        {
+            // Remove parentheses and brackets from the name for normalization
+            return System.Text.RegularExpressions.Regex.Replace(name, @"[\(\)\[\]]", "").Trim();
+        }
+
+        private void TryAddRepackTiles(string drive)
+        {
+            string repacksPath = System.IO.Path.Combine(drive, "Repacks");
+            if (!Directory.Exists(repacksPath)) return;
+            string[] folders;
+            try { folders = Directory.GetDirectories(repacksPath); }
+            catch { return; }
+            foreach (var folder in folders)
+            {
+                string name = System.IO.Path.GetFileName(folder);
+                string normalizedName = NormalizeName(name);
+                
+                // Skip if we already have this repack (deduplicate by normalized name)
+                if (_repacksByNormalizedName.ContainsKey(normalizedName.ToLowerInvariant()))
+                    continue;
+
+                string exe = null;
+                string img = null;
+                try { exe = Directory.GetFiles(folder, "*.exe").FirstOrDefault(); } catch { }
+                try { img = Directory.GetFiles(folder, "*.jpg").FirstOrDefault() ?? Directory.GetFiles(folder, "*.png").FirstOrDefault(); } catch { }
+                
+                var repackTile = new GameAppTileVM
+                {
+                    Name = name,
+                    Exe = exe,
+                    ImagePath = img,
+                    Folder = folder,
+                    IsRepack = true
+                };
+                
+                _repacksByNormalizedName[normalizedName.ToLowerInvariant()] = repackTile;
+            }
+        }
+
         private void UpdateTiles()
         {
             IEnumerable<GameAppTileVM> filtered = _allTiles;
             switch (_filterType)
             {
                 case "Games": filtered = filtered.Where(t => t.IsGame); break;
+                case "Ready to Install": filtered = filtered.Where(t => t.IsRepack); break;
                 case "Apps": filtered = filtered.Where(t => t.IsApp); break;
                 case "Music": filtered = filtered.Where(t => t.IsMusic); break;
                 case "Pictures": filtered = filtered.Where(t => t.IsPicture); break;
@@ -332,6 +380,9 @@ namespace XboxShellApp
             }
             if (_filterType == "Apps") {
                 // Do not filter by drive for installed apps
+            }
+            else if (_filterType == "Ready to Install") {
+                // Do not filter by drive for repacks since they're already deduplicated
             }
             else if (_driveSort != "All Drives") {
                 filtered = filtered.Where(t => t.Folder != null && t.Folder.StartsWith(_driveSort));
