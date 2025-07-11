@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="XboxShellApp.GameInfoPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Background="#253070">
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="450">
+            <TextBlock x:Name="GameNameBlock" Foreground="White" FontSize="38" FontWeight="Bold" Margin="0,0,0,20" TextAlignment="Center"/>
+            <Image x:Name="GameImage" Width="260" Height="260" Margin="0,0,0,18" Stretch="UniformToFill" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="PlayTimeBlock" Foreground="#AACCFF" FontSize="20" Margin="0,0,0,30" TextAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button x:Name="PlayBtn" Content="Play" Width="110" Height="44" Margin="0,0,12,0" FontSize="18" Background="#2d7dff" Foreground="White"/>
+                <Button x:Name="OptionsBtn" Content="..." Width="44" Height="44" FontSize="22"/>
+            </StackPanel>
+            <Button x:Name="BackBtn" Content="⟵ Back" Width="110" Height="38" Margin="0,32,0,0" FontSize="15" Background="#222C48" Foreground="White" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

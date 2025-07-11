@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="XboxShellApp.SettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Background="#191a23">
+        <StackPanel Orientation="Horizontal" Margin="22,32,0,16">
+            <Button x:Name="BackToDashboardBtn" Content="⟵ Back" Width="110" Height="38" Margin="0,0,18,0" FontSize="16" Background="#2d7dff" Foreground="White"/>
+            <TextBlock Text="Settings" FontSize="32" Foreground="#fff" FontWeight="Bold" VerticalAlignment="Center"/>
+        </StackPanel>
+        <UniformGrid Rows="2" Columns="3" Margin="44,90,44,44">
+            <Button Content="General" FontSize="22" Background="#2d7dff" Foreground="White" Margin="16" Height="160"/>
+            <Button Content="Account" FontSize="22" Background="#1b87e0" Foreground="White" Margin="16" Height="160"/>
+            <Button Content="Display" FontSize="22" Background="#36373f" Foreground="White" Margin="16" Height="160"/>
+            <Button Content="Network" FontSize="22" Background="#2298fc" Foreground="White" Margin="16" Height="160"/>
+            <Button Content="System" FontSize="22" Background="#4268b1" Foreground="White" Margin="16" Height="160"/>
+            <Button Content="Accessibility" FontSize="22" Background="#187a37" Foreground="White" Margin="16" Height="160"/>
+        </UniformGrid>
+    </Grid>
+</UserControl>

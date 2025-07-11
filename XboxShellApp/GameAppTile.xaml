@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="XboxShellApp.GameAppTile"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Width="148" Height="190">
+    <Grid>
+        <Border Background="#18326a" CornerRadius="7"/>
+        <Grid>
+            <Image Source="{Binding ImagePath}" Width="132" Height="132" Stretch="UniformToFill" Margin="8,10,8,36" HorizontalAlignment="Center"/>
+            <Border Background="#B2182850" Height="36" VerticalAlignment="Bottom" Margin="0" CornerRadius="0,0,7,7">
+                <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0">
+                    <TextBlock Text="{Binding Name}" Foreground="White" FontWeight="Bold" FontSize="15" TextTrimming="CharacterEllipsis"
+                               TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="8,0,8,0"/>
+                    <TextBlock Text="{Binding TypeLabel}" Foreground="#43c0ff" FontSize="11" TextAlignment="Center"
+                               VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,-2,0,0"/>
+                </StackPanel>
+            </Border>
+            <Button Background="Transparent" BorderBrush="{x:Null}" Cursor="Hand" Click="Tile_Click" />
+        </Grid>
+    </Grid>
+</UserControl>

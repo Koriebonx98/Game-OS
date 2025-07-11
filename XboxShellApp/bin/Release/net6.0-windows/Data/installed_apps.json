@@ -1,0 +1,1731 @@
+[
+  {
+    "Name": "== ElAmigos Releases and Updates @ pastebin ==",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Plants vs. Zombies GOTY\\== ElAmigos Releases and Updates @ pastebin ==.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "7-Zip 24.08 (x64)",
+    "Exe": "C:\\Program Files\\7-Zip\\7zFM.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "7-Zip File Manager",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "7-Zip Help",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip Help.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Achievement Watcher",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Achievement Watcher\\Achievement Watcher.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Achievement Watcher",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\StartUp\\Achievement Watcher.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Achievement Watcher",
+    "Exe": "C:\\Program Files\\Achievement Watcher\\AchievementWatcher.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Add Components",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Add Components.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Administrative Tools",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Administrative Tools.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "altV Multiplayer",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\altV Multiplayer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Among Us 3D",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\3baea337a9cf1d3fab689dac93db82f9fc4a007d.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "AOMEI Backupper",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AOMEI Backupper\\AOMEI Backupper.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "AOMEI Backupper",
+    "Exe": "C:\\Program Files (x86)\\AOMEI\\AOMEI Backupper\\7.2.3\\Backupper.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Apache3",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\PixCreations\\Apache3.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Application Verifier (WOW)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X86)\\Application Verifier (WOW).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Application Verifier (X64)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier (X64).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Application Verifier Help",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier Help.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Assassin\u0027s Creed Rogue",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\ccd7bb07b45fdf87b63f50dcd2a492e73ab3f481.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Atlas",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Atlas.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Audacity",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Audacity.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Audacity 3.7.1",
+    "Exe": "C:\\Program Files\\Audacity\\audacity.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Battle.net",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Battle.net\\Battle.net.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Battle.net",
+    "Exe": "C:\\Program Files (x86)\\Battle.net\\Battle.net.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Blend for Visual Studio 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blend for Visual Studio 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Bloodborne",
+    "Exe": "D:\\Roms\\Sony - Playstation 4\\PKG\\Bloodborne\\Uninstall\\unins000.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "BlueStacks",
+    "Exe": "C:\\Program Files\\BlueStacks_nxt\\ProductLogo.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "BlueStacks 5",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\BlueStacks 5.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "BlueStacks Multi-Instance Manager",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\BlueStacks Multi-Instance Manager.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "BlueStacks Services",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\BlueStacks Services.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "BlueStacks Store",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\BlueStacks Store\\BlueStacks Store.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Build History",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Build History.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Build Monitor",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Build Monitor.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty Black Ops 4",
+    "Exe": "F:\\Games\\Call of Duty - Black Ops 4\\BlackOps4.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty Black Ops Cold War",
+    "Exe": "D:\\Games\\Call of Duty - Black Ops Cold War\\BlackOpsColdWar.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty Vanguard",
+    "Exe": "D:\\Games\\Call of Duty Vanguard\\Vanguard.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty: Black Ops II",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\bf2dbf3aaa1464cf97ab1558e2b9b305ae538e42.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty: Black Ops II - Multiplayer",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\13210414c0ed79e89786c6ad77108d713cea876f.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty: Black Ops II - Zombies",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\07991a4f49c5ab8836c3cffe9f13366382bb2feb.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty: Black Ops III",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\d5163ea762a63dca461ab6287694f9f1cf55663b.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Call of Duty\u00AE",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\62d857e14896e4f7010ebedc8842b1e48898a18c.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Character Map",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Command Prompt",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Component Services",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "computer",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\computer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Computer Management",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Control Panel",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Control Panel.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Cut the Rope",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\193c863677de3f97b28d16736f1b0d62d55e3184.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Dead Rising 2",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\7645fef535c4497c17d07f3eb610d1290336856e.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Dead Rising 2: Off the Record",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\cc4bacead727beff57c735fb12d4f9a89ee68cea.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Dead Rising 4",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\6e582ca1980704a77991fdc6f3ab06dc4776b2be.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Debuggable Package Manager",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\Debuggable Package Manager.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Debuggable Package Manager",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Debuggable Package Manager.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Desktop Overlay Host",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\Desktop Overlay Host.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Developer Command Prompt for VS 2019",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\Developer Command Prompt for VS 2019.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Developer Command Prompt for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer Command Prompt for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Developer PowerShell for VS 2019",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019\\Visual Studio Tools\\Developer PowerShell for VS 2019.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Developer PowerShell for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer PowerShell for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "dfrgui",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Discord",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Disk Cleanup",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Documentation",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Documentation for Desktop Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Desktop Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Documentation for UWP Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for UWP Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Epic Games Launcher",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Event Viewer",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "File Explorer",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\File Explorer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "FiveM",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\FiveM.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "FiveM - Cfx.re Development Kit (FxDK)",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\FiveM - Cfx.re Development Kit (FxDK).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Forza Horizon 5",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\cf2cee9ce3d0d8688d0c661e5363aabd1f359c3a.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Google Chrome",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Google Chrome",
+    "Exe": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "GPUView",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Grand Theft Auto V",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\06b52e09e284542dd99eea45f9f85f68440dbcaf.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Help",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin Server 3\\Help.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "hmw-mod",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\hmw-mod.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Immersive Control Panel",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Immersive Control Panel.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "IncrediBuild Agent Settings",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\IncrediBuild Agent Settings.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "IncrediBuild Agent Tray-Icon",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\IncrediBuild Agent Tray-Icon.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "IncrediBuild Coordinator",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\IncrediBuild Coordinator.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "IncrediBuild Coordinator Settings",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\IncrediBuild Coordinator Settings.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "iSCSI Initiator",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Joyxoff",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Joyxoff\\Joyxoff.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Kodi",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Kodi\\Kodi.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "LANShare",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\LANShare.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Launcher Prerequisites (x64)",
+    "Exe": "C:\\ProgramData\\Package Cache\\{43a03b9c-4770-409c-a999-587b60700b63}\\LauncherPrereqSetup_x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "LEGO\u00AE Harry Potter\u2122 Collection",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\8df2ee99ba86e4e61c3ad5d15f3d92f057421a7c.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Lossless Scaling",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\2fec9b7de2981af2a4242de5bf69c11d6b24ee08.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Magnify",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "MEGA Website",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\MEGA Website.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "MEGAsync",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\MEGAsync.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "MEGAsync",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\MEGAsync.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "MEGAsync",
+    "Exe": "C:\\Users\\Korie\\AppData\\Local\\MEGAsync\\MEGAsync.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Memory Diagnostics Tool",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Metro: Last Light Redux",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\1c423226090b046bba5d447d862e1f27e0d1628d.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft .NET Framework 4.8 Developer Pack",
+    "Exe": "C:\\ProgramData\\Package Cache\\{362af3ba-ef6b-483c-9cb9-8033838e8b7d}\\NDP48-DevPack-ENU.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft .NET SDK 8.0.313 (x64)",
+    "Exe": "C:\\ProgramData\\Package Cache\\{0a9389df-5c9c-49c3-aa91-ad7e6a3999df}\\dotnet-sdk-8.0.313-win-x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Edge",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Edge",
+    "Exe": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\138.0.3351.77\\msedge.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Edge WebView2 Runtime",
+    "Exe": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\138.0.3351.77\\msedgewebview2.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2012 Redistributable (x64) - 11.0.61030",
+    "Exe": "C:\\ProgramData\\Package Cache\\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}\\vcredist_x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2012 Redistributable (x86) - 11.0.61030",
+    "Exe": "C:\\ProgramData\\Package Cache\\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}\\vcredist_x86.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x64) - 12.0.40664",
+    "Exe": "C:\\ProgramData\\Package Cache\\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}\\vcredist_x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2013 Redistributable (x86) - 12.0.40664",
+    "Exe": "C:\\ProgramData\\Package Cache\\{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}\\vcredist_x86.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x64) - 14.44.35208",
+    "Exe": "C:\\ProgramData\\Package Cache\\{9387bec2-2f2b-48d1-a0ce-692c5df7042d}\\VC_redist.x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual C\u002B\u002B 2015-2022 Redistributable (x86) - 14.44.35112",
+    "Exe": "C:\\ProgramData\\Package Cache\\{3bc32411-7927-4e98-a2a1-70f2dc14a469}\\VC_redist.x86.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Visual Studio Installer",
+    "Exe": "\u0022C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe\u0022",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Windows Desktop Runtime - 8.0.6 (x86)",
+    "Exe": "C:\\ProgramData\\Package Cache\\{702d4010-b274-4250-a70c-912e572210d5}\\windowsdesktop-runtime-8.0.6-win-x86.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Microsoft Windows Desktop Runtime - 8.0.8 (x64)",
+    "Exe": "C:\\ProgramData\\Package Cache\\{33832ff3-5583-4b81-b270-d9fd42760e1a}\\windowsdesktop-runtime-8.0.8-win-x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "MovieBoxPro",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MovieBoxPro\\MovieBoxPro.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "MovieBoxPro",
+    "Exe": "C:\\Windows\\Installer\\{AF5D5A1D-8A20-4EA7-85A9-1DFD1508B926}\\MovieBoxPro.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Narrator",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Need for Speed: SHIFT",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\2eb3b8b9ac959d1a71e05b437fdcee94919a2385.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Notepad",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Notepad.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "NvCpl",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA AIUser Container",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA App",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\NVIDIA App.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA App 11.0.3.232",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Backend",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Container",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA FrameView SDK 1.5.10920.35420203",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Graphics Driver 572.47",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA HD Audio Driver 1.4.3.2",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA LocalSystem Container",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA MessageBus 3 for NvApp",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA NvDLISR",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA PhysX System Software 9.23.1019",
+    "Exe": "C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Engine\\A_Ball_Trans.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Session Container",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA ShadowPlay 11.0.3.0",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Nvidia Share",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Telemetry Client",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA User Container",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Virtual Audio 4.65.0.3",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "NVIDIA Watchdog Plugin for NvContainer",
+    "Exe": "C:\\Program Files\\NVIDIA Corporation\\Installer2\\InstallerCore\\NVI2.dll",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "ODBC Data Sources (32-bit)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "ODBC Data Sources (64-bit)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "On-Screen Keyboard",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "OpenAL",
+    "Exe": "C:\\Program Files (x86)\\OpenAL\\oalinst.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Overcooked",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\2337f2b9192f74b220bcbdc1c48d3d79b1ef7d60.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Overcooked! All You Can Eat",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\e4ebcc0611e30babc8fc1c7389577350c7b8d256.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Paint",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Paint.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Performance Monitor",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "PIPE",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\c8993833e25acac1ee7df9cfe85c5c97533b86c5.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Plants vs. Zombies GOTY",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Plants vs. Zombies GOTY\\Plants vs. Zombies GOTY.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Plants vs. Zombies GOTY MULTi10 - ElAmigos version 1.2.0.1073",
+    "Exe": "E:\\Games\\Plants vs. Zombies GOTY\\PlantsVsZombies-2.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Play Assassin\u0027s Creed Liberation HD",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Play Assassin\u0027s Creed Liberation HD.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Playnite.DesktopApp",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Playnite.DesktopApp.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Plex Media Server",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Plex Media Server.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Plex Media Server 1.41.4.9463 (x64)",
+    "Exe": "C:\\Program Files\\Plex\\Plex Media Server\\Plex Media Server.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Popcorn-Time",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Popcorn-Time\\Popcorn-Time.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Proton VPN",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Proton\\Proton VPN.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Proton VPN",
+    "Exe": "C:\\Program Files\\Proton\\VPN\\ProtonVPN.Launcher.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Quick Assist",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Quick Assist.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Radmin Viewer 3",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin VPN\\Radmin Viewer 3.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Radmin VPN",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin VPN\\Radmin VPN.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "ReadMe",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\ReadMe.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "RecoveryDrive",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Registry Editor",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Release Notes",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Release Notes.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Release Notes",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Release Notes.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Remote Desktop Connection",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Repair Installation",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Repair Installation.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Resource Monitor",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "RivaTuner Statistics Server",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\RivaTuner Statistics Server.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "RivaTuner Statistics Server 7.3.6",
+    "Exe": "\u0022C:\\Program Files (x86)\\RivaTuner Statistics Server\\uninstall.exe\u0022",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "RivaTuner Statistics Server localization reference",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\SDK\\RivaTuner Statistics Server localization reference.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "RivaTuner Statistics Server skin format reference",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\SDK\\RivaTuner Statistics Server skin format reference.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Rockstar Games Launcher",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Rockstar Games\\Rockstar Games Launcher.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Rockstar Games Launcher",
+    "Exe": "\u0022C:\\Program Files\\Rockstar Games\\Launcher\\Launcher.exe\u0022",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Rockstar Games SDK",
+    "Exe": "C:\\Program Files\\Rockstar Games\\Social Club\\uninstallRGSCRedistributable.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Run",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Run.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Sample Desktop Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Sample Desktop Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Sample UWP Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Sample UWP Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Samples",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\SDK\\Samples.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "services",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Settings for Radmin Server",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin Server 3\\Settings for Radmin Server.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Snipping Tool",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Snipping Tool.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Speech Recognition",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Speech Recognition.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Spider-Man: Shattered Dimensions",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\85af8b2f94658880588db06d01bd9ad6e42a266e.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Start Radmin Server",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin Server 3\\Start Radmin Server.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Steam",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Steam",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Steam",
+    "Exe": "C:\\Program Files (x86)\\Steam\\uninstall.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Steam Link",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Steam Link\\Steam Link.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Stop Radmin Server",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin Server 3\\Stop Radmin Server.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "System Configuration",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "System Information",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Task Manager",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Task Scheduler",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Test Network Connectivity",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Test Network Connectivity.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "The Amazing Spider-Man",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\5bc90dc35ea81f684ec72ab8f5cee6e7910463fc.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "The Walking Dead: The Telltale Definitive Series",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\60869e1247a88d03d79b74cd7644d4d21de3cd58.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "Exe": "C:\\program files (x86)\\steam\\steam\\games\\e14b4aeacc268b94ef064f5f6b7ffb9f8a115c20.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Tools for Desktop Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Desktop Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Tools for UWP Apps",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for UWP Apps.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Ubisoft Connect",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\UbisoftConnect\\Ubisoft Connect.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Ubisoft Connect",
+    "Exe": "C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\\\UbisoftConnect.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "UE4 Prerequisites (x64)",
+    "Exe": "C:\\ProgramData\\Package Cache\\{0d995f46-317b-4b5f-bf3e-9f98bae9d339}\\UE4PrereqSetup_x64.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Radmin Server 3\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MEGAsync\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\PixCreations\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\RivaTuner Statistics Server\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\UbisoftConnect\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Uplay\\Uninstall.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall Achievement Watcher",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Achievement Watcher\\Uninstall Achievement Watcher.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall AOMEI Backupper",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AOMEI Backupper\\Uninstall AOMEI Backupper.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall Assassin\u0027s Creed Liberation HD",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Uninstall Assassin\u0027s Creed Liberation HD.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall Kodi",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Kodi\\Uninstall Kodi.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall OpenVINO AI Plugins for Audacity",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OpenVINO AI Plugins for Audacity\\Uninstall OpenVINO AI Plugins for Audacity.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall Plants vs. Zombies GOTY",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Plants vs. Zombies GOTY\\Uninstall Plants vs. Zombies GOTY.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uninstall Popcorn-Time",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Popcorn-Time\\Uninstall Popcorn-Time.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Updates",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\PixCreations\\Updates.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Uplay",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Ubisoft\\Uplay\\Uplay.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Upscayl",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Upscayl.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Upscayl 2.11.5",
+    "Exe": "C:\\Program Files\\Upscayl\\Upscayl.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Urban Trial Freestyle",
+    "Exe": "C:\\Program Files (x86)\\Steam\\steam\\games\\f114c453f518b7d4c5a62acdd62aef49465b312f.ico",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "User Manual",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IncrediBuild\\User Manual.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "User Manual (PDF)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\AOMEI Backupper\\User Manual (PDF).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "VideoLAN Website",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VideoLAN Website.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio 2019",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2019.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio Code",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio Community 2019",
+    "Exe": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\Common7\\IDE\\devenv.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio Community 2022",
+    "Exe": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Visual Studio Installer",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "VLC media player",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "VLC media player",
+    "Exe": "C:\\Program Files (x86)\\VideoLAN\\VLC\\vlc.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "VLC media player - reset preferences and cache files",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "VLC media player skinned",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "WeMod",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\WeMod\\WeMod.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows App Cert Kit",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows App Certification Kit\\Windows App Cert Kit.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Defender Firewall with Advanced Security",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Media Player",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Performance Analyzer",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Analyzer.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Performance Recorder",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Recorder.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows PowerShell",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows PowerShell (x86)",
+    "Exe": "C:\\Users\\Korie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows PowerShell ISE",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows PowerShell ISE (x86)",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Software Development Kit",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Software Development Kit - Windows 10.0.22621.5040",
+    "Exe": "C:\\ProgramData\\Package Cache\\{b72d4013-dd88-405a-9f9d-e88c278dcefe}\\winsdksetup.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Windows Software Development Kit - Windows 10.0.26100.3916",
+    "Exe": "C:\\ProgramData\\Package Cache\\{50106ec5-d0ec-4ea1-9e01-e9899676ba3f}\\winsdksetup.exe",
+    "ImagePath": "",
+    "Source": "Registry",
+    "IsGame": false
+  },
+  {
+    "Name": "Wordpad",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Wordpad.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "x64 Native Tools Command Prompt for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64 Native Tools Command Prompt for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "x64_x86 Cross Tools Command Prompt for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64_x86 Cross Tools Command Prompt for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "x86 Native Tools Command Prompt for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86 Native Tools Command Prompt for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  },
+  {
+    "Name": "x86_x64 Cross Tools Command Prompt for VS 2022",
+    "Exe": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86_x64 Cross Tools Command Prompt for VS 2022.lnk",
+    "ImagePath": "",
+    "Source": "StartMenu",
+    "IsGame": false
+  }
+]
