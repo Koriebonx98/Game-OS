@@ -328,8 +328,11 @@ namespace XboxShellApp
 
         private string NormalizeName(string name)
         {
-            // Remove parentheses and brackets from the name for normalization
-            return System.Text.RegularExpressions.Regex.Replace(name, @"[\(\)\[\]]", "").Trim();
+            // Remove parentheses and brackets AND their content from the name for normalization
+            string normalized = System.Text.RegularExpressions.Regex.Replace(name, @"\s*[\(\[][^\)\]]*[\)\]]\s*", " ");
+            // Clean up multiple consecutive spaces
+            normalized = System.Text.RegularExpressions.Regex.Replace(normalized, @"\s+", " ");
+            return normalized.Trim();
         }
 
         private void TryAddRepackTiles(string drive)
