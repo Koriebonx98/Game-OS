@@ -1,0 +1,20 @@
+/// Guide on How to make a Addon \\\
+
+Types:
+/// Folder Structures \\\
+Addon.Store.$Name : Addon to add site or other sources to store direclty 
+Addon.Theme.$Name : Addon to change design from "Default" aka "Xbox One" Design 
+Addon.Metadat.$Name: Addon to Add Metadata to "Games" "Apps" "Music" "Videos" 
+
+
+/// Store \\\\
+
+Store Addons require py scripts "Download" "Scrape" "Update" "New" 
+
+"Download":  this Will be used for logic to download games, will need logic to write to "All.$Site.Games.txt" inc version number
+
+"Scrape" : This will be used to scrape site and write to a .txt file 
+
+"Update": This Wll be used to update "Games" or "Apps" ect will need a "all.$Site.Games.txt" and this will need inc ' "Name: $GameName, Version: $GameVersion", Url: "$Url_to_Game_on_Site"'
+
+"New": This will be used to get New Games info from site.
