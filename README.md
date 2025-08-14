@@ -18,8 +18,9 @@ limkted supoort for platforms but slolwly adding each one. as each platforms com
 
 - Switch Achivements (still working in it, not all switch games will be supported.
 
-- Game Store: this is a work in orogress but will work like kodi addons. each addon will repesent api/script evt to get game data. for exmaple "addon.store.xbox.com" then addon will be in charge of obtaing game data.
+- Game Store: this is a work in progress but will work like kodi addons. each addon will repesent api/script evt to get game data. for exmaple "addon.store.xbox.com" then addon will be in charge of obtaing game data.
 
 - No dups per platform!
-- Addons support
-- Radmin friends system with notifications. 
+- Addons support!
+- Radmin friends system with notifications 
+And many more to come.
