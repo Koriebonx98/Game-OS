@@ -1,0 +1,63 @@
+# 14/08/2025:
+
+Hello, this is an on going project with the first alpha soon to be released for users to try!
+Due to "Gane OS" being a shell replacment and maybe one day being its own OS we have to take certain things into concideration such as security, this means we will not have "Game OS" app open source but instead provide specific docs and allow comunity content!!
+Conenet can be such as "Intro Vids" "Themes" "Game Store Addon's" and much more. another side note on security is while api keys will be required in the setttings part of the app this is stored loacly on the users computer, same as all other account details! 
+
+Any major updates will be done via the app so users dont have to worry, we may provide a simple way of obtaining programs/emu via github but users would need to obtain url's themselves. for xeample xenia, 
+although on github the url would need be copied anad used in inetial start up, this will then have a script set up to keep the emu up to date! other emu's will do themselfs via there own app! users will need to agree to a disclouser in order to use app.
+
+gist "I Allow "Game OS" to send certain data to the host in order for users to have better performaces and upcoming new features... so for example "Switch Ach" this is a upcoming thing but requires me to make them.. how? simply via "Ruyjinx.log" 
+as of now there is around 16k switch games and its only me dev on the project, so i will have set up when user plays a switch game it sends the log data to a database, data in log "Player Report: " , "Room: " this will then be used to find compatibilty 
+For what games could possibly allow this, it will alos speed up obtaing all 16k + data ect.. 
+
+another thing "Game OS" may do is share users "last played" "Wish list" and some other game info data, like what ach users have ect. this could be calculated and used for other users such as "Popular in Game OS" maybe a set game leaderboard for Ganme OS Users
+
+## What ive done so far!
+
+# Loggin // Accounts:
+there will be a first run setup, users will need to input a username, choose one of the many icons ect, on compleation it will load up the main dashboard. 
+every time after itll allow user to loggin or make a new account (Settings in future for auto loggin) 
+
+Accounts will be seperate so users can use the sanme windows account or have multiple. as long as they can run the same app it wont matter. settings are saved in the same folder as the app.
+accounts data will also contin stuff such as api key's, saved command line argu, ach ect 
+
+
+# Dashboard: 
+when users loggin they will be greeted with a familiar dashboard "Xbox One OG Dashaboard" theme (in fuutre users can choose between diffrent console remakes/look a likes)
+it alows keyboard and mouse support and is easy to navigate. in future controller support will be added! 
+
+# My Games and Apps:
+
+Games - When users click on this it by default will load up any it finds on any hard drive connected, for speed it will only be PC Windows Games.
+
+Apps - atm it doesnt do anything but will detect all installed apps
+
+Media - It displays nothing atm but will show "Movies" "TV Shows" and "Movies" this will be like how it handles Games but for media!
+
+Platforms - on click it displays a page of platform icons, whne user clicks it will load all Downloaded Roms from any hard drive connected.
+
+Lib - This will show lib icons, on click itll display all lib games, e.g "Steam" Shows all steam games 
+
+
+# Game Info:
+simple overlay "Play/Install" "..." "Back"
+
+"..." when click this displays game specific data like perfered emu/rom/exe ect 
+
+"Achievements" when on "..." button clicking right will display and ach for the game// uses steam api/ steam emu folders/ xenia log / ruyjinx log/ Exophase/ RA will be added! 
+
+# Store:
+As of now the store is more templated than anything, it works as it should and displays data like it does in "My Games and Apps" this means it keeps track of playtime, ach and other things. usful when use account api's to know how many libs we own a game on!
+
+by default i will provide "Steam" "Epic" "Xbox" Addon's for the store. when click "Install" it will open webpage for user to log in and obtain game via there store front! 
+
+# Friends: 
+
+This is the last major part i need add in but ive made it in a diffrent app so it would basicly be a copy and paste unto my app.
+its nothing fancy atm but just alert if friend is online/offline, in future itll show info like what game they playing, an invite and possible messaging system! 
+
+# Others, as time goes on the app will be updated to inc more emulators/platforms and other cool features! its not going to be perfect as its my first app but it works for what i need it for.
+
+there may be a small monthly cost put in place in future for access to the comunity content addon's and other devleoper features. this will help towards servers and app maintaince. 
+however thos who choose not to may be limited to some ffeatures but most will still work. like auto game/rom/media detection and other basic stuff will always be free!
