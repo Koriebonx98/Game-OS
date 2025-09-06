@@ -4,4 +4,4 @@ Game OS is a windows c sharp & wpf App made to mange libraries such as games, ap
 
 Game OS has a varity of features to make a windos pc feel like a games console without "Steam Big Picture" 
 
-This Project can be sued to replace explorer.exe for a better experince but can also be ran as it is
+This Project can be used to replace explorer.exe for a better experince but can also be ran as it is
